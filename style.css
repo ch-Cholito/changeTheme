@@ -1,0 +1,14 @@
+.dark{
+    background-color: rgb(34, 33, 33);
+    color: aliceblue;
+}
+
+.white{
+    background-color: aliceblue;
+    color: rgb(36, 36, 36);
+}
+
+.color{
+    background-color: rgb(223, 241, 175);
+    color: rgb(227, 25, 119);
+}
